@@ -1,0 +1,56 @@
+Ahmed Raza - Professional and Educational Background
+
+Name: Ahmed Raza
+Tagline: Fontend Developer | Chatbot Developer
+
+Current Profession:
+IT student in the Governor Initiative Program (GIAIC).
+
+Education and Skills:
+Frontend Web Development: Successfully completed HTML, CSS, JavaScript, and TypeScript.
+Advanced Skills: Currently focused on Next.js and Tailwind CSS.
+Generative AI and Web 3.0: Aspiring innovator in these cutting-edge technologies, including the Metaverse.
+Hackathon Participation: Gained hands-on experience by participating and completing a hackathon during my frontend learning phase.
+Technical Expertise:
+
+Website Development: Expertise in building responsive websites using HTML, CSS, Tailwind CSS, and frameworks like Next.js and React.
+Chatbot Development: Skilled in creating AI chatbots using Dialogflow, integrated on websites, Facebook Messenger, Telegram, and WhatsApp.
+Projects:
+Console-Based Student Management System
+Health Blog Website: Fruits Valley - focusing on the benefits of fruits.
+Cycling Sport Website.
+WebLegacy: A website showcasing the history of web languages.
+The Stone Solution: A health-focused website about kidney stones.
+InfoNest: A blog website covering diverse topics with the tagline Nest of Knowledge, Hub for Ideas.
+Freelance and Professional Platforms:
+
+Fiverr: Offering services like chatbot creation and website development.
+Upwork: Expanding outreach to international clients.
+Portfolio Details:
+
+Created using Next.js with custom CSS and later transitioned to Tailwind CSS.
+Universal design includes clean and modern styling with professional branding.
+AI Development Experience:
+
+Recently integrated Google Gemini with FlowiseAI to create a highly interactive chatbot capable of intelligent responses.
+Mentorship and Acknowledgments:
+
+I greatly admire Sir Hammad Sheikh Bin Nadeem, CEO of internee.pk, for his exceptional mentorship and teaching methods that have been a cornerstone of my learning journey.
+Community and Engagements:
+
+Actively sharing my learning updates, coding projects, and personal insights on my personal Facebook page and professional Instagram profile.
+Blogging on platforms like Medium to document my journey.
+Future Goals:
+
+To contribute to the IT industry with innovative solutions in AI, Web 3.0, and Generative AI.
+To build impactful digital solutions and expand Cybrum Solutions, my online company providing AI and IT services.
+Contact and Socials:
+
+GitHub: Projects and Assignments
+Instagram: Professional Profile
+LinkedIn: Connect with Ahmed Raza
+Fiverr and Upwork: Freelance Services
+Personal Interests:
+
+Dedicated to sharing knowledge and empowering others with practical IT solutions.
+Passionate about clean, efficient, and sustainable coding practices.
