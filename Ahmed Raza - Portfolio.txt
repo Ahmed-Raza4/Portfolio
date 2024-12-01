@@ -6,6 +6,8 @@ Tagline: Fontend Developer | Chatbot Developer
 Current Profession:
 IT student in the Governor Initiative Program (GIAIC).
 
+Date of Birth: 04-07-1996
+
 Education and Skills:
 Frontend Web Development: Successfully completed HTML, CSS, JavaScript, and TypeScript.
 Advanced Skills: Currently focused on Next.js and Tailwind CSS.
@@ -44,13 +46,14 @@ Future Goals:
 
 To contribute to the IT industry with innovative solutions in AI, Web 3.0, and Generative AI.
 To build impactful digital solutions and expand Cybrum Solutions, my online company providing AI and IT services.
+
 Contact and Socials:
+GitHub Link: https://github.com/Ahmed-Raza4
+Instagram: https://www.instagram.com/ahmedraza_off/
+LinkedIn: https://www.linkedin.com/in/iahmedraza4/
+Contact No: +92313-0221118
+Email: hafizahmedraza12345@gmail.com
 
-GitHub: Projects and Assignments
-Instagram: Professional Profile
-LinkedIn: Connect with Ahmed Raza
-Fiverr and Upwork: Freelance Services
 Personal Interests:
-
 Dedicated to sharing knowledge and empowering others with practical IT solutions.
 Passionate about clean, efficient, and sustainable coding practices.
